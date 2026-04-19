@@ -54,8 +54,8 @@ To run this application, you will need:
 
 ## 🛠 Built With
 
-*   **Flutter** - UI Toolkit
-*   **Dart** - Programming Language
+*   **Flutter Version** - 3.27.3
+*   **Dart Version** - 3.6.1
 *   **State Management** - Built-in `ChangeNotifier` and `ListenableBuilder` (No external packages!)
 
 ## 🤝 Contributing
