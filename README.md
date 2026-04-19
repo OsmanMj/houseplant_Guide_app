@@ -33,7 +33,7 @@ To run this application, you will need:
 *   [Flutter SDK](https://docs.flutter.dev/get-started/install) installed on your machine.
 *   An IDE like Android Studio, VS Code, or IntelliJ.
 
-### Installation
+### Çalıştırma Adımları (Installation)
 
 1.  **Clone the repository:**
     ```bash
